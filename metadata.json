@@ -1,0 +1,6 @@
+{
+  "name": "Tamagotchi 1996 - 經典電子雞復刻版",
+  "description": "經典 1996 年電子雞（拓麻歌子）掌上型遊戲復刻版，擁有 LCD 灰綠點陣液晶螢幕、三鍵實體操作、8-bit 嗶嗶音效、多階段進化與照顧系統。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
